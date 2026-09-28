@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "meigangfeng", "runtimeExecutable": "python", "runtimeArgs": ["-m", "http.server", "8792", "-d", ".."], "port": 8792 }
+  ]
+}
